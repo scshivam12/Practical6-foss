@@ -1,2 +1,2 @@
 # Practical6-foss
-foss practical-6
+updated by shivam chaudhary fycs68
